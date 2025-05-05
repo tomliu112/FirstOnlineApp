@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/FirstOnlineApp.git/static/css/main.9e6b5ecb.css",
+    "main.js": "/FirstOnlineApp.git/static/js/main.9e2443f2.js",
+    "index.html": "/FirstOnlineApp.git/index.html",
+    "main.9e6b5ecb.css.map": "/FirstOnlineApp.git/static/css/main.9e6b5ecb.css.map",
+    "main.9e2443f2.js.map": "/FirstOnlineApp.git/static/js/main.9e2443f2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9e6b5ecb.css",
+    "static/js/main.9e2443f2.js"
+  ]
+}
